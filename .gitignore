@@ -1,7 +1,6 @@
 .gradle
 /local.properties
 .DS_Store
-/build
 .idea/
 build/
 target/
@@ -12,5 +11,4 @@ gradle/
 *.ipr
 gradlew
 gradlew.bat
-local.properties
 gradle.properties
